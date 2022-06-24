@@ -1,2 +1,2 @@
-# **CodeWars tasks**
-### About 140 tasks from CodeWars(Python)
+# _**CodeWars tasks**_
+### **About 140 tasks from CodeWars(Python)**
